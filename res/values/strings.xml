@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">minerfarm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test"></string>
+    <string name="shortAPI">Short API Key</string>
+    <string name="shortAPIname"></string>
+    <string name="longAPI">Long API Key</string>
+    <string name="longAPIname"></string>
+
+</resources>
